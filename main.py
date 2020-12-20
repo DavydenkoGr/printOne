@@ -1,6 +1,6 @@
 # Grigory
 def my_superfunction():
-    print('What an awesome print!')
+    print('Cyberpunk2077')
 
 
 def main():
